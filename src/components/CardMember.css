@@ -1,0 +1,13 @@
+.CardMember {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20vw;
+  border: solid 2px slategray;
+  border-radius: 4px;
+  padding:5px;
+}
+
+.CardMember-img {
+  width: 100%
+}
